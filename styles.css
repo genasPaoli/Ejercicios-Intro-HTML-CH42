@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+}
+
+body {
+     background-image: url(./media/1000_F_191082591_68juHKuvna2ULzjJGMHKQ1SPIKXZfzIb-3399017835.jpg);
+    
+}
+
+:root{
+    --color-de--fondo: #000000;
+    --color-de--texto: #0AFFFF;
+    --color-de--acento: #00FF00;
+    --color-de--titulo: #FF00FF;
+}
+
+h1 {
+    color: var(--color-de--titulo);
+
+}
+
+ol {
+    color: var(--color-de--texto);
+    display: flex;
+    flex-direction: row;
+    
+}

@@ -6,8 +6,16 @@
 }
 
 body {
-     background-image: url(./media/1000_F_191082591_68juHKuvna2ULzjJGMHKQ1SPIKXZfzIb-3399017835.jpg);
+     background-image: url(./media/eyes.jpg);
+     background-size: cover;
     
+}
+
+#NavCont {
+    background-image: url(./media/𝐖𝐡𝐚𝐭𝐞𝐯𝐞𝐫\ _\ 𓄻𓄻\ ໋\ ̹\ 𝆹𝅥.jpg);
+    background-size: auto;
+    border-radius: 10px;
+
 }
 
 :root{
@@ -15,16 +23,4 @@ body {
     --color-de--texto: #0AFFFF;
     --color-de--acento: #00FF00;
     --color-de--titulo: #FF00FF;
-}
-
-h1 {
-    color: var(--color-de--titulo);
-
-}
-
-ol {
-    color: var(--color-de--texto);
-    display: flex;
-    flex-direction: row;
-    
 }
